@@ -1,3 +1,14 @@
+In this project I will be adding angular custom components, for example starting with a tabbed pannel.
+
+A panel like below:
+![image](https://user-images.githubusercontent.com/20777854/75106285-c3bc1380-5640-11ea-8c03-73f901c40d75.png)
+![image](https://user-images.githubusercontent.com/20777854/75106287-cc144e80-5640-11ea-9a7c-d4be88a0a13c.png)
+
+Can be created using:
+<tabbedpanel height="190px" width="230px" meta="{'student details':'.s1','registration':'#s2','dummy':'#s3'}"></tabbedpanel>
+
+where meta contains the tab names and the selector that those tab represents. Any div or elemnet with those selector will get associated with corresponsing tabs.
+
 # Angularcomponents
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.0.2.
