@@ -5,7 +5,7 @@ A panel like below:
 ![image](https://user-images.githubusercontent.com/20777854/75106287-cc144e80-5640-11ea-9a7c-d4be88a0a13c.png)
 
 Can be created using:
-<!CDATA[[ panel height="190px" width="230px" meta="{'student details':'.s1','registration':'#s2','dummy':'#s3'}"></tabbedpanel> ]]>
+![image](https://user-images.githubusercontent.com/20777854/75110237-db4fc800-5651-11ea-9583-a943fa4873de.png)
 
 where meta contains the tab names and the selector that those tab represents. Any div or elemnet with those selector will get associated with corresponsing tabs.
 
